@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Meu Blog`,
+    position: `Marketing Digital`,
     description: `Um blog simples e poderoso para marketing digital`,
     author: `@myblog`,
   },
@@ -24,7 +25,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+      icon: `src/images/digital-mkt-icon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
