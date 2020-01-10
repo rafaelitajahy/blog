@@ -14,9 +14,11 @@ const PostItem = ({
 }) => (
   <S.PostItemLink to={slug}>
     <S.PostItemWrapper>
-    <S.PostItemTag background={background}>{category}</S.PostItemTag>
+      <S.PostItemTag background={background}>
+        {category.slice(0, 1)}
+      </S.PostItemTag>
       <S.PostItemInfo>
-      <S.PostItemDate>
+        <S.PostItemDate>
           {date} • {timeToRead} min de leitura
         </S.PostItemDate>
         <S.PostItemTitle>{title}</S.PostItemTitle>
@@ -31,7 +33,7 @@ PostItem.propTypes = {
   background: PropTypes.string,
   category: PropTypes.string.isRequired,
   date: PropTypes.string.isRequired,
-  timeToRead: PropTypes.string.isRequired,
+  timeToRead: PropTypes.number.isRequired,
   title: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,
 }
