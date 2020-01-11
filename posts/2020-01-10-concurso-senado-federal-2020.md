@@ -1,9 +1,9 @@
 ---
-date: 2020-01-09 07:54:23
-title: Concursos escada
-description: Como alcançar altos salários utilizando concursos estratégicos
-category: Concurso
-background: "#54AB13"
+date: 2020-01-10 08:54:23
+title: Concurso Senado Federal
+description: Concurso Senado Federal
+category: Notícias
+background: "#9b00b6"
 ---
 
 # Lorem ipsum

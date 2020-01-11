@@ -1,9 +1,9 @@
 ---
-date: 2020-01-09 07:54:23
-title: Concursos escada
-description: Como alcançar altos salários utilizando concursos estratégicos
-category: Concurso
-background: "#54AB13"
+date: 2020-01-07 05:54:23
+title: Nova lei para concursos
+description: Nova lei para concursos
+category: Método
+background: "#7AAB13"
 ---
 
 # Lorem ipsum

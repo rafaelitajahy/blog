@@ -1,9 +1,9 @@
 ---
-date: 2020-01-09 07:54:23
-title: Concursos escada
-description: Como alcançar altos salários utilizando concursos estratégicos
-category: Concurso
-background: "#54AB13"
+date: 2020-01-01 08:54:23
+title: Novo ano para concursos
+description: Novo ano para concursos
+category: Notícias
+background: "#9b59b6"
 ---
 
 # Lorem ipsum
